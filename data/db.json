@@ -1,0 +1,261 @@
+{
+  "videos": [
+    {
+      "attributes":{
+        "name": "Harry Potter",
+        "id": "1",
+                "description": "<p>ES2015 (aka ES6) has some great ways to make your code easier to write and understand. In this episode, we cover two different ways that you can make your code clearer by removing the 'function' keyword.</p>",
+                "thumbnail": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/d8/images/canvas/2021/07/02/ab56793f-7450-4074-9845-d3af4b21f2f2_f6028065.jpg?itok=ytJiNc3c&v=1625214062",
+                "videoUrl": "https://r3---sn-gpv7kn7d.googlevideo.com/videoplayback?expire=1634118259&ei=E1ZmYZOVN8Ta1gKJvZLAAg&ip=179.156.184.149&id=o-AENBCIIGw6AGN6bDNFcJz4fwBtJekgdFCGtJMCJLhOfu&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=pJjzfdkebJJqGE8l23BfLL0G&gir=yes&clen=6344588&ratebypass=yes&dur=130.263&lmt=1613984560354037&fexp=24001373,24007246&c=WEB&txp=5530422&n=duyjO9C2cXtXfJ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgaKe6fa9HknSzUN-BXoubbOuAOciKzt5T3-AwJSxuKnECIH8ng6dDaiwRTZwssuga9Tlyo_v0gvq71UYFxVlMrxEO&rm=sn-oxunxg8pjvn-4vge7s,sn-pmcg-4vge7s&req_id=176b0d363d98a3ee&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mh=D7&mm=30&mn=sn-gpv7kn7d&ms=nxu&mt=1634100506&mv=m&mvi=3&pl=24&lsparams=ipbypass,mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhANlRnZjLR8jxqpJYf7MTMaP5_VpRSOLMyU2L0-aDPL-SAiEAg4sZoCVSvt16Tx3-Y7uvyGdM7ccHKWmb3oJ64NIifO8%3D",
+                "tagIds": [
+                  {
+                      "id": "1",
+                      "name": "Magic"
+                    },
+                  {
+                      "id": "2",
+                      "name": "Fiction"
+                    },
+                  {
+                      "id": "3",
+                      "name": "Mystery"
+                    }
+                  ]
+              }
+            },
+            {
+              "attributes":{
+                "name": "Black Widow",
+                "id": "2",
+                    "description": "<p>Template strings are an incredibly useful new feature in ES2015... and you can use them in your Ember apps today!</p><p>Here are 3 cool things that template strings enable.</p>",
+                    "thumbnail": "https://cdn.mos.cms.futurecdn.net/N95NighWhALCHizdFtx2DT.jpg",
+                    "videoUrl": "https://r4---sn-i3belne6.googlevideo.com/videoplayback?expire=1634108681&ei=qTBmYerHH7qXx_AP56O36AU&ip=139.192.123.146&id=o-AIjha8nqES9gcwFffzoQ66DoREu5fK4Nyt68gl-5GR0D&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=JyycsrIpcZ7zSElJrMybK8sG&gir=yes&clen=8903533&ratebypass=yes&dur=121.556&lmt=1625400126918106&fexp=24001373,24007246&c=WEB&txp=5530434&n=E2j-AFjSjkqBob&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAIoSeZ2p_olnO_LA_VHfbPwtkmYyo81bjKgmBiQKkTPkAiEA8tYeAfX6XxbVCar9OKXBtq0BbMTTiQxVeHYMTZBl_Po%3D&rm=sn-4pgnuhxqp5-jb3d7z,sn-npol77z&req_id=76cade7669b3a3ee&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mh=5v&mip=58.97.227.153&mm=30&mn=sn-i3belne6&ms=nxu&mt=1634100740&mv=m&mvi=4&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgdGgJMRmqjyidU50B9g-mAOX3sn5qpuXMqL0GSYsXRW4CIAh9GoMbbEMmCPpSPtzYmD20KHIL8oyjX8BMRCPfBcuE",
+                    "tagIds": [
+                      {
+                          "id": "1",
+                          "name": "Action"
+                        },
+                      {
+                          "id": "2",
+                          "name": "Modern"
+                        }
+                      ]
+                  }
+            },
+            {
+              "attributes":{
+                "name": "Black Panther",
+                "id": "3",
+                    "description": "<p>Before modules, javascript code loading was a mess. Now it's pretty amazing.</p><p>Learn about ES2015 modules and how they work together with ember-cli.</p>",
+                    "thumbnail": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F3FDE15D5495AFA50676F9EDEC89E72BBA2426CE32FDFB5004A68BF5BE79CD4/scale?width=1200&aspectRatio=1.78&format=jpeg",
+                    "videoUrl": "https://r8---sn-v2xooxuj5hcvqp5-2ois.googlevideo.com/videoplayback?expire=1634118949&ei=xFhmYbfVO9WYvwTPr7W4BA&ip=139.99.61.5&id=o-ALo7blgGk7lCIisPrphplz9jKWstQsm4_5ML9YurovJL&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=HNfmx5fFCq9C_vJjdadv9EwG&gir=yes&clen=8640875&ratebypass=yes&dur=138.205&lmt=1551063440709725&fexp=24001373,24007246&c=WEB&txp=5531432&n=45tWtBur3LSX77&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgAtZv_oMRIIR2kf9YEQqr-7hZXWaiiyOj2DdWJzRy76cCIQD3Wc9pnhapU8rvrgJ7DQ6jUIjFzRTTKliAfASttZK_dQ%3D%3D&rm=sn-npozd7z&req_id=ab8466daeca0a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-3pobuxjiovavbpxn-2oik7l&cms_redirect=yes&mh=_a&mip=58.97.227.153&mm=29&mn=sn-v2xooxuj5hcvqp5-2ois&ms=rdu&mt=1634101013&mv=m&mvi=8&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgZR-TzgagkqK5mcVwgHP6falu8mC0-u7V1m4pFpeuxUACIQDR58jXWJ4seN51pMqsHE0gHEjIplwqNzicewHa6lpY0g%3D%3D",
+                    "tagIds": [
+                      {
+                          "id": "1",
+                          "name": "Action"
+                        },
+                      {
+                          "id": "3",
+                          "name": "Technology"
+                        }
+                      ]
+                  }
+            },
+            {
+              "attributes":{
+                "name": "Detective Pikachu",
+                "id": "4",
+                    "description": "<p>Promises are a tool for handling asynchronous communication, and they are commonly used in Ember applications. They’re even built in to Ember Data, route handling, and other parts of the Ember source.</p><p>This episode introduces the then, catch, and finally blocks, how to chain them together, and how to use them with either named or anonymous functions.</p>",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7W86Ltj4dv-D6XeNlgbbBURHFPr3z1ZaXA&usqp=CAU",
+                    "videoUrl": "https://vue-screencasts.s3.us-east-2.amazonaws.com/video-files/EmberScreencast+92+-+Promises+Basics.mp4",
+                    "tagIds": [
+                      {
+                          "id": "1",
+                          "name": "Pokemon"
+                        },
+                      {
+                          "id": "2",
+                          "name": "Pikachi"
+                        },
+                      {
+                          "id": "3",
+                          "name": "comedy"
+                        }
+                      ]
+                  }
+            },
+            {
+              "attributes":{
+                "name": "Game of throne",
+                "id": "5",
+                    "description": "<p>Sometimes you want to start a new promise chain or have greater control over the timing of events. By manually creating a promise, you can do that.</p><p>In this video we cover creating a new promise and resolving or rejecting the promise. We use two examples- a custom AJAX login and an Ember Data findAll request.</p>",
+                    "thumbnail": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4909/474909-h",
+                    "videoUrl": "https://vue-screencasts.s3.us-east-2.amazonaws.com/video-files/EmberScreencast+93+-+Creating+New+Promises.mp4",
+                    "tagIds": [
+                      {
+                          "id": "1",
+                          "name": "Strategy"
+                        },
+                      {
+                          "id": "2",
+                          "name": "Dragon"
+                        },
+                      {
+                          "id": "3",
+                          "name": "Betrayal"
+                        }
+                      ]
+                  }
+            },
+            {
+              "attributes":{
+                "name": "The Blacklist",
+                "id": "6",
+                    "description": "<p>Sometimes promises have to happen in an exact order, but often there will be several calls that can be made concurrently. RSVP’s Promise implementation allows that.</p><p>In this video we show how to use the hash method, one of several methods available to do concurrent promises.</p>",
+                    "thumbnail": "https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/the_blacklist_8_-_keyart.jpg?itok=-n2t0WmA",
+                    "videoUrl": "blob:https://vidembed.cc/1cfd1242-0a6d-442c-85a4-ee1895fec95c",
+                    "tagIds": [
+                      {
+                          "id": "1",
+                          "name": "Action"
+                        },
+                      {
+                          "id": "2",
+                          "name": "Pilot"
+                        },
+                      {
+                          "id": "3",
+                          "name": "Shooting"
+                        }
+                      ]
+                  }
+            },
+            {
+              "attributes":{
+                "name": "Once upon a time",
+                "id": "7",
+                    "description": "<p>Destructuring is really cool, can save you code, and you’re probably already using a small portion of its power.</p><p>Learn more about this cool new ES2015/ES6 feature, including how to destructure deeply nested objects, how to use it with Ember’s import statement, and how to use it with arrays.</p>",
+                    "thumbnail": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9295/689295-h",
+                    "videoUrl": "https://vue-screencasts.s3.us-east-2.amazonaws.com/video-files/EmberScreencast+114+-+ES2015+Destructuring.mp4",
+                    "tagIds": [
+                      {
+                          "id": "1",
+                          "name": "Disney"
+                        },
+                      {
+                          "id": "2",
+                          "name": "Fantasy"
+                        },
+                      {
+                          "id": "3",
+                          "name": "Magic"
+                        }
+                      ]
+                  }
+            },
+            {
+              "attributes": 
+              {
+                    "id": "8",
+                    "name": "Daredevil",
+                    "description": "<p>Decorators let you easily and repeatedly add functionality to existing functions.</p><p>In this episode we go over how to use and create decorators, creating two useful decorators that demonstrate different parts of the API.</p>",
+                    "thumbnail": "https://wegotthiscovered.com/wp-content/uploads/2019/12/Daredevil-670x335.jpeg",
+                    "videoUrl": "https://vue-screencasts.s3.us-east-2.amazonaws.com/video-files/EmberScreencast+115+-+ES2016+Decorators.mp4",
+                    "tagIds": [
+                      {
+                          "id": "1",
+                          "name": "Action"
+                        },
+                      {
+                          "id": "2",
+                          "name": "Crime"
+                        },
+                      {
+                          "id": "3",
+                          "name": "Superhero"
+                        }
+                      ]
+                  }
+            }
+    ],
+    "tags": [
+      {
+        "id": "1",
+        "type": "tag",
+        "attributes": {
+          "name": "Harry Potter"
+        },
+        "relationships": {
+          "videos": {
+            "attributes": {
+              "id": "7"
+            }
+          }
+        }
+      }
+    ],
+    "users": [
+      {
+        "id": "2",
+        "type": "user",
+        "attributes": {
+          "id": "2",
+          "name": "Harry potter",
+          "email": "harry@gmail.com"
+        }
+      },
+      {
+        "id": "3",
+        "type": "user",
+        "attributes": {
+          "id": "3",
+          "name": "Black Harry",
+          "email": "harry@gmail.com"
+        }
+      },
+      {
+        "id": "4",
+        "type": "user",
+        "attributes": {
+          "id": "4",
+          "name": "Harry White",
+          "email": "harry@gmail.com"
+        }
+      },
+      {
+        "id": "5",
+        "type": "user",
+        "attributes": {
+          "id": "5",
+          "name": "British Harry",
+          "email": "harry@gmail.com"
+        }
+      },
+      {
+        "id": "6",
+        "type": "user",
+        "attributes": {
+          "id": "6",
+          "name": "Harry Canada",
+          "email": "harry@gmail.com"
+        }
+      },
+      {
+        "id": "7",
+        "type": "user",
+        "attributes": {
+          "id": "7",
+          "name": "Fake Harry",
+          "email": "harry@gmail.com"
+        }
+      }
+    ],
+    "session": [
+      {
+        "id": "1",
+        "name": "harry",
+        "email": "harry@gmail.com",
+        "password": "12345"
+      }
+    ]
+  }
